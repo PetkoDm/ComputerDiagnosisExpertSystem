@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|d:\\tu_6_term\\es\\computerdiagnosisexpertsystem\\computerdiagnosisexpertsystem\\forms\\diagnosisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|solutionrelative:computerdiagnosisexpertsystem\\forms\\diagnosisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\computerdiagnosisexpertsystem\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|solutionrelative:computerdiagnosisexpertsystem\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\computerdiagnosisexpertsystem\\forms\\resultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|solutionrelative:computerdiagnosisexpertsystem\\forms\\resultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\computerdiagnosisexpertsystem\\logic\\inferenceengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|solutionrelative:computerdiagnosisexpertsystem\\logic\\inferenceengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\computerdiagnosisexpertsystem\\forms\\resultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|solutionrelative:computerdiagnosisexpertsystem\\forms\\resultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\computerdiagnosisexpertsystem\\forms\\resultform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|solutionrelative:computerdiagnosisexpertsystem\\forms\\resultform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\computerdiagnosisexpertsystem\\forms\\diagnosisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|solutionrelative:computerdiagnosisexpertsystem\\forms\\diagnosisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\computerdiagnosisexpertsystem\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|solutionrelative:computerdiagnosisexpertsystem\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\computerdiagnosisexpertsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|solutionrelative:computerdiagnosisexpertsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\computerdiagnosisexpertsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06510CEA-899C-40DE-9164-29EB0E6EE762}|ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem.csproj|solutionrelative:computerdiagnosisexpertsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultForm.cs [Design]",
+              "DocumentMoniker": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\ResultForm.cs",
+              "RelativeDocumentMoniker": "ComputerDiagnosisExpertSystem\\Forms\\ResultForm.cs",
+              "ToolTip": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\ResultForm.cs [Design]",
+              "RelativeToolTip": "ComputerDiagnosisExpertSystem\\Forms\\ResultForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:20:44.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultForm.cs",
+              "DocumentMoniker": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\ResultForm.cs",
+              "RelativeDocumentMoniker": "ComputerDiagnosisExpertSystem\\Forms\\ResultForm.cs",
+              "ToolTip": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\ResultForm.cs",
+              "RelativeToolTip": "ComputerDiagnosisExpertSystem\\Forms\\ResultForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T12:22:17.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InferenceEngine.cs",
+              "DocumentMoniker": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Logic\\InferenceEngine.cs",
+              "RelativeDocumentMoniker": "ComputerDiagnosisExpertSystem\\Logic\\InferenceEngine.cs",
+              "ToolTip": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Logic\\InferenceEngine.cs",
+              "RelativeToolTip": "ComputerDiagnosisExpertSystem\\Logic\\InferenceEngine.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwFMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:45:51.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ComputerDiagnosisExpertSystem\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\MainForm.cs",
+              "RelativeToolTip": "ComputerDiagnosisExpertSystem\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T12:21:53.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiagnosisForm.cs",
+              "DocumentMoniker": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\DiagnosisForm.cs",
+              "RelativeDocumentMoniker": "ComputerDiagnosisExpertSystem\\Forms\\DiagnosisForm.cs",
+              "ToolTip": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\DiagnosisForm.cs",
+              "RelativeToolTip": "ComputerDiagnosisExpertSystem\\Forms\\DiagnosisForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:44:18.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiagnosisForm.cs [Design]",
+              "DocumentMoniker": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\DiagnosisForm.cs",
+              "RelativeDocumentMoniker": "ComputerDiagnosisExpertSystem\\Forms\\DiagnosisForm.cs",
+              "ToolTip": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\DiagnosisForm.cs [Design]",
+              "RelativeToolTip": "ComputerDiagnosisExpertSystem\\Forms\\DiagnosisForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:20:30.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ComputerDiagnosisExpertSystem\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "ComputerDiagnosisExpertSystem\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:20:16.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultForm.Designer.cs",
+              "DocumentMoniker": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\ResultForm.Designer.cs",
+              "RelativeDocumentMoniker": "ComputerDiagnosisExpertSystem\\Forms\\ResultForm.Designer.cs",
+              "ToolTip": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Forms\\ResultForm.Designer.cs",
+              "RelativeToolTip": "ComputerDiagnosisExpertSystem\\Forms\\ResultForm.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:02:13.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ComputerDiagnosisExpertSystem\\Program.cs",
+              "ToolTip": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Program.cs",
+              "RelativeToolTip": "ComputerDiagnosisExpertSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:16:22.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "ComputerDiagnosisExpertSystem\\Form1.cs",
+              "ToolTip": "D:\\TU_6_term\\ES\\ComputerDiagnosisExpertSystem\\ComputerDiagnosisExpertSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "ComputerDiagnosisExpertSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:12:57.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
